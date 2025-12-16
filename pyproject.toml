@@ -13,6 +13,7 @@ dependencies = [
     "pyodbc>=5.0.0",
     "pandas>=2.0.0",
     "sqlalchemy>=2.0.0",
+    "python-dotenv>=1.2.1",
 ]
 
 [dependency-groups]
